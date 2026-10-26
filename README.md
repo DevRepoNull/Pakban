@@ -1,14 +1,25 @@
-# Pakban — پاک‌بان
+<p align="center">
+  <img src="Assets/app.png" alt="Pakban Logo" width="160" height="160" />
+</p>
 
-**Smart Windows Storage Cleaner & RAM Optimizer / پاک‌ساز هوشمند حافظه و بهینه‌ساز رم ویندوز**
+<h1 align="center">Pakban — پاک‌بان</h1>
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue.svg)](https://microsoft.com/windows)
-[![.NET](https://img.shields.io/badge/.NET-10.0-purple.svg)](https://dotnet.microsoft.com/)
-[![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://learn.microsoft.com/dotnet/csharp/)
-[![UI](https://img.shields.io/badge/UI-WPF-orange.svg)](https://learn.microsoft.com/dotnet/desktop/wpf/)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+<p align="center">
+  <strong>Smart Windows Storage Cleaner & RAM Optimizer</strong><br>
+  <strong>پاک‌ساز هوشمند حافظه و بهینه‌ساز رم ویندوز</strong>
+</p>
 
-Pakban ("keeper of cleanliness" / نگهبان پاکیزگی) is a modern, bilingual (English / فارسی) desktop application built with **C# / WPF on .NET 10** that graphically visualizes your disk and RAM consumption and enables safe, high-speed cleanup without risking your system stability.
+<p align="center">
+  <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue.svg" alt="Platform"></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-10.0-purple.svg" alt=".NET"></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/Language-C%23-green.svg" alt="C#"></a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/UI-WPF-orange.svg" alt="WPF"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License"></a>
+</p>
+
+<p align="center">
+  <em>Pakban ("keeper of cleanliness" / نگهبان پاکیزگی) is a modern, bilingual (English / فارسی) desktop application built with <b>C# / WPF on .NET 10</b> that graphically visualizes your disk and RAM consumption and enables safe, high-speed cleanup without risking system stability.</em>
+</p>
 
 ---
 
